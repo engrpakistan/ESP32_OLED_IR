@@ -1,5 +1,6 @@
 # ESP32_oled_ir
 This repo is about getting started with ESP32.In this repo you will cover two topic sending and receiving data from ESP32.This repo is about receiving data from an IR sensor and  display robotics eyes on an OLED 128x64 display using ESP32.
+
 WATCH FULL TUTORIAL VIDEO --> https://youtu.be/Oq6sax94xng
 
 ![image](https://github.com/engrpakistan/ESP32_oled_ir/assets/148635820/fee72dff-e341-498a-9916-ead0c1c06fc5)
@@ -20,16 +21,21 @@ The wiring diagram shows the pin configuration.The fritzing file and wiring diag
 ![image](https://github.com/engrpakistan/ESP32_oled_ir/assets/148635820/ce511012-e5d0-40cb-81b8-65bf6a7adafe)
 
 **ACT 3 LOPAKA**
+
 After wiring up the circuit it's time to design some animation without little to no effort (you dont need to code).Goto lopaka(https://lopaka.app/) set the libray to U8g2 and display to 128x 64 (you may set accordingly to your need).
+
 ![image](https://github.com/engrpakistan/ESP32_oled_ir/assets/148635820/cd812d59-19a7-40ec-a0ab-c117c39b3437)
 
 Now be creative and start designing ENGINEERS!!! 
+
 ![image](https://github.com/engrpakistan/ESP32_oled_ir/assets/148635820/b3cf4c67-b5eb-4f1e-a319-9ac751188c14)
 
 After designing copy the code.
+
 ![image](https://github.com/engrpakistan/ESP32_oled_ir/assets/148635820/f8fc6fae-9195-4e44-9659-f330babad827)
 
 **ACT 4 CODING**
+
 We are almost there.Coding file is uploaded to this repo.Open your Arduino IDE and search for U8g2 (library by oliver).
 
 ![image](https://github.com/engrpakistan/ESP32_oled_ir/assets/148635820/c1402612-29ff-440f-b89a-4647cba3e874)
